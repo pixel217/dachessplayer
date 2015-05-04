@@ -1,0 +1,1 @@
+This is a small chess engine that I wrote on my free time
